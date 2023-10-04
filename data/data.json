@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Carlos Acosta Mendez",
+        "id": 12312,
+        "subjects": [
+            {
+                "name": "Matemáticas",
+                "teacher": "Pedro Sanchez",
+                "tasks": [
+                    {"score": 50},
+                    {"score": 70},
+                    {"score": 100},
+                    {"score": 20}
+                ]
+            },
+            {
+                "name": "Física",
+                "teacher": "Miguel de la Torre",
+                "tasks": [
+                    {"score": 67},
+                    {"score": 100},
+                    {"score": 100},
+                    {"score": 86}
+                ]
+            },
+            {
+                "name": "Química",
+                "teacher": "Maria Rodriguez",
+                "tasks": [
+                    {"score": 90},
+                    {"score": 75},
+                    {"score": 85},
+                    {"score": 95}
+                ]
+            },
+            {
+                "name": "Biología",
+                "teacher": "Laura Martinez",
+                "tasks": [
+                    {"score": 80},
+                    {"score": 95},
+                    {"score": 88},
+                    {"score": 70}
+                ]
+            },
+            {
+                "name": "Historia",
+                "teacher": "Carlos Ramirez",
+                "tasks": [
+                    {"score": 78},
+                    {"score": 87},
+                    {"score": 92},
+                    {"score": 65}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ana Rodriguez",
+        "id": 45678,
+        "subjects": [
+            {
+                "name": "Literatura",
+                "teacher": "Elena Fernandez",
+                "tasks": [
+                    {"score": 85},
+                    {"score": 92},
+                    {"score": 88},
+                    {"score": 78}
+                ]
+            },
+            {
+                "name": "Inglés",
+                "teacher": "David Smith",
+                "tasks": [
+                    {"score": 95},
+                    {"score": 88},
+                    {"score": 100},
+                    {"score": 90}
+                ]
+            },
+            {
+                "name": "Arte",
+                "teacher": "Maria González",
+                "tasks": [
+                    {"score": 70},
+                    {"score": 75},
+                    {"score": 82},
+                    {"score": 68}
+                ]
+            },
+            {
+                "name": "Economía",
+                "teacher": "Javier Perez",
+                "tasks": [
+                    {"score": 88},
+                    {"score": 95},
+                    {"score": 90},
+                    {"score": 79}
+                ]
+            },
+            {
+                "name": "Educación Física",
+                "teacher": "Ana Lopez",
+                "tasks": [
+                    {"score": 100},
+                    {"score": 98},
+                    {"score": 95},
+                    {"score": 90}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Carlos Martinez",
+        "id": 78901,
+        "subjects": [
+            {
+                "name": "Programación",
+                "teacher": "Luis Gomez",
+                "tasks": [
+                    {"score": 92},
+                    {"score": 85},
+                    {"score": 98},
+                    {"score": 90}
+                ]
+            },
+            {
+                "name": "Geografía",
+                "teacher": "Laura Fernandez",
+                "tasks": [
+                    {"score": 80},
+                    {"score": 88},
+                    {"score": 75},
+                    {"score": 92}
+                ]
+            },
+            {
+                "name": "Música",
+                "teacher": "Pedro Ramirez",
+                "tasks": [
+                    {"score": 75},
+                    {"score": 82},
+                    {"score": 70},
+                    {"score": 88}
+                ]
+            },
+            {
+                "name": "Psicología",
+                "teacher": "Sofia Torres",
+                "tasks": [
+                    {"score": 95},
+                    {"score": 90},
+                    {"score": 88},
+                    {"score": 82}
+                ]
+            },
+            {
+                "name": "Dibujo Técnico",
+                "teacher": "Carlos Gonzalez",
+                "tasks": [
+                    {"score": 88},
+                    {"score": 92},
+                    {"score": 90},
+                    {"score": 95}
+                ]
+            }
+        ]
+    }
+]

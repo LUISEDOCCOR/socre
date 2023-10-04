@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+header{
+    height: 25vh;
+    background-color: #444;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    gap: 30px;
+    font-size: 17px;
+    font-weight: normal;
+}
+.info{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.btns{
+    width: 20vw;
+    display: flex;
+    justify-content: space-between;
+}
+.btnMove{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    border: none;
+    background-color: #777;
+    color: white;
+    transition: .2s;
+}
+.btnMove:hover{
+    background-color: #999;
+}
+main{
+    display: flex;
+    height: 75vh;
+    background-color: #333;
+    color: white;
+    align-items: center;
+    flex-direction: column;
+}
+#subjects{
+    margin-top: 20px;
+    font-size: 20px;
+    height: 30px;
+}
+.root{
+    width: 100vw;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 30px;
+}
+.card-container, .container-add{
+    width: 50vw ;
+    height: 60vh;
+}
+.container-add{
+    padding-bottom: 50px;
+}
+.card-container, .container-add{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px   ;
+}
+.card-subject, .container-form{
+    height: 40vh;
+    width: 30vw;
+    background-color: #555;
+    border-radius: 20px;
+}
+.card-subject{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 20px;
+    text-align: center;
+}
+.container-add{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.container-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
